@@ -1,7 +1,7 @@
 <tv generator-info-name="EPG Service generator xmltv" generator-info-url="http://www.test">
 <channel id="62">
 <display-name lang="ru">TV test</display-name>
-<icon src="http://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/3ece3c81-e875-4057-ab9d-0a6ca5ae6dd/logo/000002882.png"/>
+<icon src="http://xml-epgservice.cdnvideo1.ru/EPGService/hs/xmldata/3ece3c81-e875-4057-ab9d-0a6ca5ae6dd/logo/000002882.png"/>
 </channel>
 <programme start="20260424000200 +0300" stop="20260424010200 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee30">
 <title lang="en" id="2521306">program_name 0</title>
