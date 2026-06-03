@@ -134,7 +134,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <part-number/>
 <desc size="normal" lang="en">some description</desc>
 <desc-sub-title size="short" lang="en">some description</desc-sub-title>
-<category lang="en" id="4">action</category>
+<category lang="en" id="4">action1</category>
 <genre lang="en" id="527">genre1</genre><credits>
 <person type="director" id-type="010" id="81488" id-kinopoisk="1669556" id-imdb="">
 <name lang="en">Robb Pratt</name>
@@ -194,7 +194,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <part-number/>
 <desc size="normal" lang="en">test</desc>
 <desc-sub-title size="short" lang="en">test</desc-sub-title>
-<category lang="en" id="4">drama</category>
+<category lang="en" id="4">drama1</category>
 <genre lang="en" id="527">genre1</genre><credits>
 <person type="director" id-type="010" id="81488" id-kinopoisk="1669556" id-imdb="">
 <name lang="en">Robb Pratt</name>
@@ -438,7 +438,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <part-number/>
 <desc size="normal" lang="en">some description</desc>
 <desc-sub-title size="short" lang="en">some description</desc-sub-title>
-<category lang="en" id="4">action</category>
+<category lang="en" id="4">action1</category>
 <genre lang="en" id="527">genre1</genre><credits>
 <person type="director" id-type="010" id="81488" id-kinopoisk="1669556" id-imdb="">
 <name lang="en">Robb Pratt</name>
@@ -498,7 +498,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <part-number/>
 <desc size="normal" lang="en">test</desc>
 <desc-sub-title size="short" lang="en">test</desc-sub-title>
-<category lang="en" id="4">drama</category>
+<category lang="en" id="4">drama1</category>
 <genre lang="en" id="527">genre1</genre><credits>
 <person type="director" id-type="010" id="81488" id-kinopoisk="1669556" id-imdb="">
 <name lang="en">Robb Pratt</name>
@@ -742,7 +742,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <part-number/>
 <desc size="normal" lang="en">some description</desc>
 <desc-sub-title size="short" lang="en">some description</desc-sub-title>
-<category lang="en" id="4">action</category>
+<category lang="en" id="4">action1</category>
 <genre lang="en" id="527">genre1</genre><credits>
 <person type="director" id-type="010" id="81488" id-kinopoisk="1669556" id-imdb="">
 <name lang="en">Robb Pratt</name>
@@ -802,7 +802,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <part-number/>
 <desc size="normal" lang="en">test</desc>
 <desc-sub-title size="short" lang="en">test</desc-sub-title>
-<category lang="en" id="4">drama</category>
+<category lang="en" id="4">drama1</category>
 <genre lang="en" id="527">genre1</genre><credits>
 <person type="director" id-type="010" id="81488" id-kinopoisk="1669556" id-imdb="">
 <name lang="en">Robb Pratt</name>
