@@ -4,13 +4,13 @@
 <icon src="http://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/3ece3c81-e875-4057-ab9d-0a6ca5ae6dd/logo/000002882.png"/>
 </channel>
 <programme start="20260604080000 +0300" stop="20260604090000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee30">
-<title lang="en" id="2521306">BigNews3 0</title>
+<title lang="en" id="2521306">BigNews5 0</title>
 <sub-title lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title>
 <sub-title-original lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title-original>
 <part-number/>
 <desc size="normal" lang="en">Mickey and his friends encourage preschoolers at home to solve problems and overcome obstacles through exciting interactive adventures. Goofy accidentally makes Pluto's doghouse disappear when he puts on a magic show</desc>
 <desc-sub-title size="short" lang="en">Mickey and his friends encourage preschoolers at home to solve problems and overcome obstacles through exciting interactive adventures. Goofy accidentally makes Pluto's doghouse disappear when he puts on a magic show</desc-sub-title>
-<category lang="en" id="4">anime</category>
+<category lang="en" id="4">category3</category>
 <genre lang="en" id="527">genre1</genre><credits>
 <person type="director" id-type="010" id="81488" id-kinopoisk="1669556" id-imdb="">
 <name lang="en">Robb Pratt</name>
@@ -64,7 +64,7 @@
 <icon type="frame" position="gorizontal" aspect-ratio="16:9" w="1920" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/devushka_volny_more_1220714_1920x1080.jpg"/>
 </programme>
 <programme start="20260604090000 +0300" stop="20260604100000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee31">
-<title lang="en" id="2521306">BigNews4 1</title>
+<title lang="en" id="2521306">BigNews6 1</title>
 <sub-title lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title>
 <sub-title-original lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title-original>
 <part-number/>
@@ -74,7 +74,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <desc-sub-title size="short" lang="en">Saw is a 2004 American horror film directed by James Wan, in his feature directorial debut, and written by Leigh Whannell from a story by Wan and Whannell. It is the first installment in the Saw film series, and stars Whannell, Cary Elwes, Danny Glover, Monica Potter, Michael Emerson, Ken Leung, and Tobin Bell.The film tells a nonlinear narrative, revolving around the mystery of the Jigsaw Killer, who tests his victims' will to live by putting them through deadly "games" where they must inflict great physical pain upon themselves to survive. The frame story follows Jigsaw's latest victims (Whannell and Elwes), who awaken in a large, dilapidated bathroom, with one being ordered to kill the other to save his own family.
 The screenplay was written by Whannell, who co-created the story with Wan in their respective screenwriting debuts. The film was originally written in 2001, but after failed attempts to get the script produced in Wan and Whannell's home country of Australia, they were urged to travel to Los Angeles. In order to help attract producers they shot a low-budget short film of the same name from a scene out of the script. This proved successful in 2003 as producers from Evolution Entertainment were immediately attached and also formed a horror genre production label, Twisted Pictures. The film was given a small production budget and was shot in 18 days.
 Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, before being released in North America on October 29, 2004, by Lionsgate. The film received generally mixed reviews from critics but grossed more than $100 million worldwide to become one of the most profitable horror films since Scream (1996). It was theatrically re-released, to select theaters, on October 31, 2014, to celebrate its tenth anniversary. The first sequel, titled Saw II, was released in 2005.</desc-sub-title>
-<category lang="en" id="4">anime</category>
+<category lang="en" id="4">category3</category>
 <genre lang="en" id="527">genre1</genre><credits>
 <person type="director" id-type="010" id="81488" id-kinopoisk="1669556" id-imdb="">
 <name lang="en">Robb Pratt</name>
@@ -128,13 +128,13 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <icon type="frame" position="gorizontal" aspect-ratio="16:9" w="1920" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/devushka_siluet_plate_1182318_1920x1080.jpg"/>
 </programme>
 <programme start="20260604100000 +0300" stop="20260604110000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee32">
-<title lang="en" id="2521306">BigNews3 2</title>
+<title lang="en" id="2521306">BigNews5 2</title>
 <sub-title lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title>
 <sub-title-original lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title-original>
 <part-number/>
 <desc size="normal" lang="en">some description</desc>
 <desc-sub-title size="short" lang="en">some description</desc-sub-title>
-<category lang="en" id="4">anime</category>
+<category lang="en" id="4">category3</category>
 <genre lang="en" id="527">genre1</genre><credits>
 <person type="director" id-type="010" id="81488" id-kinopoisk="1669556" id-imdb="">
 <name lang="en">Robb Pratt</name>
@@ -188,13 +188,13 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <icon type="frame" position="gorizontal" aspect-ratio="16:9" w="1920" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/gorod_zdaniia_noch_989931_1920x1080.jpg"/>
 </programme>
 <programme start="20260604110000 +0300" stop="20260604120000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee33">
-<title lang="en" id="2521306">BigNews4 3</title>
+<title lang="en" id="2521306">BigNews6 3</title>
 <sub-title lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title>
 <sub-title-original lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title-original>
 <part-number/>
 <desc size="normal" lang="en">test</desc>
 <desc-sub-title size="short" lang="en">test</desc-sub-title>
-<category lang="en" id="4">anime</category>
+<category lang="en" id="4">category3</category>
 <genre lang="en" id="527">genre1</genre><credits>
 <person type="director" id-type="010" id="81488" id-kinopoisk="1669556" id-imdb="">
 <name lang="en">Robb Pratt</name>
@@ -248,13 +248,13 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <icon type="frame" position="gorizontal" aspect-ratio="16:9" w="1920" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/zamok_arhitektura_gory_252072_1920x1080.jpg"/>
 </programme>
 <programme start="20260604120000 +0300" stop="20260604130000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee34">
-<title lang="en" id="2521306">BigNews3 4</title>
+<title lang="en" id="2521306">BigNews5 4</title>
 <sub-title lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title>
 <sub-title-original lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title-original>
 <part-number/>
 <desc size="normal" lang="en">Sigh no more, ladies, sigh no more,Men were deceivers ever,One foot in sea and one on shore,To one thing constant never:Then sigh not so, but let them go, And be you blithe and bonny,Converting all your sounds of woe Into Hey nonny, nonny.</desc>
 <desc-sub-title size="short" lang="en">Sigh no more, ladies, sigh no more,Men were deceivers ever,One foot in sea and one on shore,To one thing constant never:Then sigh not so, but let them go, And be you blithe and bonny,Converting all your sounds of woe Into Hey nonny, nonny.</desc-sub-title>
-<category lang="en" id="4">anime</category>
+<category lang="en" id="4">category3</category>
 <genre lang="en" id="527">genre1</genre><credits>
 <person type="director" id-type="010" id="81488" id-kinopoisk="1669556" id-imdb="">
 <name lang="en">Robb Pratt</name>
@@ -308,13 +308,13 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <icon type="frame" position="gorizontal" aspect-ratio="16:9" w="1920" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/olen_les_noch_130294_1920x1080.jpg"/>
 </programme>
 <programme start="20260604130000 +0300" stop="20260604140000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee35">
-<title lang="en" id="2521306">BigNews4 5</title>
+<title lang="en" id="2521306">BigNews6 5</title>
 <sub-title lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title>
 <sub-title-original lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title-original>
 <part-number/>
 <desc size="normal" lang="en">Mickey and his friends encourage preschoolers at home to solve problems and overcome obstacles through exciting interactive adventures. Goofy accidentally makes Pluto's doghouse disappear when he puts on a magic show</desc>
 <desc-sub-title size="short" lang="en">Mickey and his friends encourage preschoolers at home to solve problems and overcome obstacles through exciting interactive adventures. Goofy accidentally makes Pluto's doghouse disappear when he puts on a magic show</desc-sub-title>
-<category lang="en" id="4">anime</category>
+<category lang="en" id="4">category3</category>
 <genre lang="en" id="527">genre1</genre><credits>
 <person type="director" id-type="010" id="81488" id-kinopoisk="1669556" id-imdb="">
 <name lang="en">Robb Pratt</name>
@@ -368,7 +368,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <icon type="frame" position="gorizontal" aspect-ratio="16:9" w="1920" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/devushka_volny_more_1220714_1920x1080.jpg"/>
 </programme>
 <programme start="20260604140000 +0300" stop="20260604150000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee36">
-<title lang="en" id="2521306">BigNews3 6</title>
+<title lang="en" id="2521306">BigNews5 6</title>
 <sub-title lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title>
 <sub-title-original lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title-original>
 <part-number/>
@@ -378,7 +378,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <desc-sub-title size="short" lang="en">Saw is a 2004 American horror film directed by James Wan, in his feature directorial debut, and written by Leigh Whannell from a story by Wan and Whannell. It is the first installment in the Saw film series, and stars Whannell, Cary Elwes, Danny Glover, Monica Potter, Michael Emerson, Ken Leung, and Tobin Bell.The film tells a nonlinear narrative, revolving around the mystery of the Jigsaw Killer, who tests his victims' will to live by putting them through deadly "games" where they must inflict great physical pain upon themselves to survive. The frame story follows Jigsaw's latest victims (Whannell and Elwes), who awaken in a large, dilapidated bathroom, with one being ordered to kill the other to save his own family.
 The screenplay was written by Whannell, who co-created the story with Wan in their respective screenwriting debuts. The film was originally written in 2001, but after failed attempts to get the script produced in Wan and Whannell's home country of Australia, they were urged to travel to Los Angeles. In order to help attract producers they shot a low-budget short film of the same name from a scene out of the script. This proved successful in 2003 as producers from Evolution Entertainment were immediately attached and also formed a horror genre production label, Twisted Pictures. The film was given a small production budget and was shot in 18 days.
 Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, before being released in North America on October 29, 2004, by Lionsgate. The film received generally mixed reviews from critics but grossed more than $100 million worldwide to become one of the most profitable horror films since Scream (1996). It was theatrically re-released, to select theaters, on October 31, 2014, to celebrate its tenth anniversary. The first sequel, titled Saw II, was released in 2005.</desc-sub-title>
-<category lang="en" id="4">anime</category>
+<category lang="en" id="4">category3</category>
 <genre lang="en" id="527">genre1</genre><credits>
 <person type="director" id-type="010" id="81488" id-kinopoisk="1669556" id-imdb="">
 <name lang="en">Robb Pratt</name>
@@ -432,13 +432,13 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <icon type="frame" position="gorizontal" aspect-ratio="16:9" w="1920" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/devushka_siluet_plate_1182318_1920x1080.jpg"/>
 </programme>
 <programme start="20260604150000 +0300" stop="20260604160000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee37">
-<title lang="en" id="2521306">BigNews4 7</title>
+<title lang="en" id="2521306">BigNews6 7</title>
 <sub-title lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title>
 <sub-title-original lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title-original>
 <part-number/>
 <desc size="normal" lang="en">some description</desc>
 <desc-sub-title size="short" lang="en">some description</desc-sub-title>
-<category lang="en" id="4">anime</category>
+<category lang="en" id="4">category3</category>
 <genre lang="en" id="527">genre1</genre><credits>
 <person type="director" id-type="010" id="81488" id-kinopoisk="1669556" id-imdb="">
 <name lang="en">Robb Pratt</name>
@@ -492,13 +492,13 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <icon type="frame" position="gorizontal" aspect-ratio="16:9" w="1920" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/gorod_zdaniia_noch_989931_1920x1080.jpg"/>
 </programme>
 <programme start="20260604160000 +0300" stop="20260604170000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee38">
-<title lang="en" id="2521306">BigNews3 8</title>
+<title lang="en" id="2521306">BigNews5 8</title>
 <sub-title lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title>
 <sub-title-original lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title-original>
 <part-number/>
 <desc size="normal" lang="en">test</desc>
 <desc-sub-title size="short" lang="en">test</desc-sub-title>
-<category lang="en" id="4">anime</category>
+<category lang="en" id="4">category3</category>
 <genre lang="en" id="527">genre1</genre><credits>
 <person type="director" id-type="010" id="81488" id-kinopoisk="1669556" id-imdb="">
 <name lang="en">Robb Pratt</name>
@@ -552,13 +552,13 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <icon type="frame" position="gorizontal" aspect-ratio="16:9" w="1920" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/zamok_arhitektura_gory_252072_1920x1080.jpg"/>
 </programme>
 <programme start="20260604170000 +0300" stop="20260604180000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee39">
-<title lang="en" id="2521306">BigNews4 9</title>
+<title lang="en" id="2521306">BigNews6 9</title>
 <sub-title lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title>
 <sub-title-original lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title-original>
 <part-number/>
 <desc size="normal" lang="en">Sigh no more, ladies, sigh no more,Men were deceivers ever,One foot in sea and one on shore,To one thing constant never:Then sigh not so, but let them go, And be you blithe and bonny,Converting all your sounds of woe Into Hey nonny, nonny.</desc>
 <desc-sub-title size="short" lang="en">Sigh no more, ladies, sigh no more,Men were deceivers ever,One foot in sea and one on shore,To one thing constant never:Then sigh not so, but let them go, And be you blithe and bonny,Converting all your sounds of woe Into Hey nonny, nonny.</desc-sub-title>
-<category lang="en" id="4">anime</category>
+<category lang="en" id="4">category3</category>
 <genre lang="en" id="527">genre1</genre><credits>
 <person type="director" id-type="010" id="81488" id-kinopoisk="1669556" id-imdb="">
 <name lang="en">Robb Pratt</name>
@@ -612,13 +612,13 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <icon type="frame" position="gorizontal" aspect-ratio="16:9" w="1920" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/olen_les_noch_130294_1920x1080.jpg"/>
 </programme>
 <programme start="20260604180000 +0300" stop="20260604190000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee310">
-<title lang="en" id="2521306">BigNews3 10</title>
+<title lang="en" id="2521306">BigNews5 10</title>
 <sub-title lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title>
 <sub-title-original lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title-original>
 <part-number/>
 <desc size="normal" lang="en">Mickey and his friends encourage preschoolers at home to solve problems and overcome obstacles through exciting interactive adventures. Goofy accidentally makes Pluto's doghouse disappear when he puts on a magic show</desc>
 <desc-sub-title size="short" lang="en">Mickey and his friends encourage preschoolers at home to solve problems and overcome obstacles through exciting interactive adventures. Goofy accidentally makes Pluto's doghouse disappear when he puts on a magic show</desc-sub-title>
-<category lang="en" id="4">anime</category>
+<category lang="en" id="4">category3</category>
 <genre lang="en" id="527">genre1</genre><credits>
 <person type="director" id-type="010" id="81488" id-kinopoisk="1669556" id-imdb="">
 <name lang="en">Robb Pratt</name>
@@ -672,7 +672,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <icon type="frame" position="gorizontal" aspect-ratio="16:9" w="1920" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/devushka_volny_more_1220714_1920x1080.jpg"/>
 </programme>
 <programme start="20260604190000 +0300" stop="20260604200000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee311">
-<title lang="en" id="2521306">BigNews4 11</title>
+<title lang="en" id="2521306">BigNews6 11</title>
 <sub-title lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title>
 <sub-title-original lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title-original>
 <part-number/>
@@ -682,7 +682,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <desc-sub-title size="short" lang="en">Saw is a 2004 American horror film directed by James Wan, in his feature directorial debut, and written by Leigh Whannell from a story by Wan and Whannell. It is the first installment in the Saw film series, and stars Whannell, Cary Elwes, Danny Glover, Monica Potter, Michael Emerson, Ken Leung, and Tobin Bell.The film tells a nonlinear narrative, revolving around the mystery of the Jigsaw Killer, who tests his victims' will to live by putting them through deadly "games" where they must inflict great physical pain upon themselves to survive. The frame story follows Jigsaw's latest victims (Whannell and Elwes), who awaken in a large, dilapidated bathroom, with one being ordered to kill the other to save his own family.
 The screenplay was written by Whannell, who co-created the story with Wan in their respective screenwriting debuts. The film was originally written in 2001, but after failed attempts to get the script produced in Wan and Whannell's home country of Australia, they were urged to travel to Los Angeles. In order to help attract producers they shot a low-budget short film of the same name from a scene out of the script. This proved successful in 2003 as producers from Evolution Entertainment were immediately attached and also formed a horror genre production label, Twisted Pictures. The film was given a small production budget and was shot in 18 days.
 Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, before being released in North America on October 29, 2004, by Lionsgate. The film received generally mixed reviews from critics but grossed more than $100 million worldwide to become one of the most profitable horror films since Scream (1996). It was theatrically re-released, to select theaters, on October 31, 2014, to celebrate its tenth anniversary. The first sequel, titled Saw II, was released in 2005.</desc-sub-title>
-<category lang="en" id="4">anime</category>
+<category lang="en" id="4">category3</category>
 <genre lang="en" id="527">genre1</genre><credits>
 <person type="director" id-type="010" id="81488" id-kinopoisk="1669556" id-imdb="">
 <name lang="en">Robb Pratt</name>
@@ -736,13 +736,13 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <icon type="frame" position="gorizontal" aspect-ratio="16:9" w="1920" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/devushka_siluet_plate_1182318_1920x1080.jpg"/>
 </programme>
 <programme start="20260604200000 +0300" stop="20260604210000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee312">
-<title lang="en" id="2521306">BigNews3 12</title>
+<title lang="en" id="2521306">BigNews5 12</title>
 <sub-title lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title>
 <sub-title-original lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title-original>
 <part-number/>
 <desc size="normal" lang="en">some description</desc>
 <desc-sub-title size="short" lang="en">some description</desc-sub-title>
-<category lang="en" id="4">anime</category>
+<category lang="en" id="4">category3</category>
 <genre lang="en" id="527">genre1</genre><credits>
 <person type="director" id-type="010" id="81488" id-kinopoisk="1669556" id-imdb="">
 <name lang="en">Robb Pratt</name>
@@ -796,13 +796,13 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <icon type="frame" position="gorizontal" aspect-ratio="16:9" w="1920" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/gorod_zdaniia_noch_989931_1920x1080.jpg"/>
 </programme>
 <programme start="20260604210000 +0300" stop="20260604220000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee313">
-<title lang="en" id="2521306">BigNews4 13</title>
+<title lang="en" id="2521306">BigNews6 13</title>
 <sub-title lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title>
 <sub-title-original lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title-original>
 <part-number/>
 <desc size="normal" lang="en">test</desc>
 <desc-sub-title size="short" lang="en">test</desc-sub-title>
-<category lang="en" id="4">anime</category>
+<category lang="en" id="4">category3</category>
 <genre lang="en" id="527">genre1</genre><credits>
 <person type="director" id-type="010" id="81488" id-kinopoisk="1669556" id-imdb="">
 <name lang="en">Robb Pratt</name>
@@ -856,13 +856,13 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <icon type="frame" position="gorizontal" aspect-ratio="16:9" w="1920" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/zamok_arhitektura_gory_252072_1920x1080.jpg"/>
 </programme>
 <programme start="20260604220000 +0300" stop="20260604230000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee314">
-<title lang="en" id="2521306">BigNews3 14</title>
+<title lang="en" id="2521306">BigNews5 14</title>
 <sub-title lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title>
 <sub-title-original lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title-original>
 <part-number/>
 <desc size="normal" lang="en">Sigh no more, ladies, sigh no more,Men were deceivers ever,One foot in sea and one on shore,To one thing constant never:Then sigh not so, but let them go, And be you blithe and bonny,Converting all your sounds of woe Into Hey nonny, nonny.</desc>
 <desc-sub-title size="short" lang="en">Sigh no more, ladies, sigh no more,Men were deceivers ever,One foot in sea and one on shore,To one thing constant never:Then sigh not so, but let them go, And be you blithe and bonny,Converting all your sounds of woe Into Hey nonny, nonny.</desc-sub-title>
-<category lang="en" id="4">anime</category>
+<category lang="en" id="4">category3</category>
 <genre lang="en" id="527">genre1</genre><credits>
 <person type="director" id-type="010" id="81488" id-kinopoisk="1669556" id-imdb="">
 <name lang="en">Robb Pratt</name>
@@ -916,13 +916,13 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <icon type="frame" position="gorizontal" aspect-ratio="16:9" w="1920" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/olen_les_noch_130294_1920x1080.jpg"/>
 </programme>
 <programme start="20260604230000 +0300" stop="20260605000000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee315">
-<title lang="en" id="2521306">BigNews4 15</title>
+<title lang="en" id="2521306">BigNews6 15</title>
 <sub-title lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title>
 <sub-title-original lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title-original>
 <part-number/>
 <desc size="normal" lang="en">Mickey and his friends encourage preschoolers at home to solve problems and overcome obstacles through exciting interactive adventures. Goofy accidentally makes Pluto's doghouse disappear when he puts on a magic show</desc>
 <desc-sub-title size="short" lang="en">Mickey and his friends encourage preschoolers at home to solve problems and overcome obstacles through exciting interactive adventures. Goofy accidentally makes Pluto's doghouse disappear when he puts on a magic show</desc-sub-title>
-<category lang="en" id="4">anime</category>
+<category lang="en" id="4">category3</category>
 <genre lang="en" id="527">genre1</genre><credits>
 <person type="director" id-type="010" id="81488" id-kinopoisk="1669556" id-imdb="">
 <name lang="en">Robb Pratt</name>
@@ -976,7 +976,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <icon type="frame" position="gorizontal" aspect-ratio="16:9" w="1920" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/devushka_volny_more_1220714_1920x1080.jpg"/>
 </programme>
 <programme start="20260605000000 +0300" stop="20260605010000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee316">
-<title lang="en" id="2521306">BigNews3 16</title>
+<title lang="en" id="2521306">BigNews5 16</title>
 <sub-title lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title>
 <sub-title-original lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title-original>
 <part-number/>
@@ -986,7 +986,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <desc-sub-title size="short" lang="en">Saw is a 2004 American horror film directed by James Wan, in his feature directorial debut, and written by Leigh Whannell from a story by Wan and Whannell. It is the first installment in the Saw film series, and stars Whannell, Cary Elwes, Danny Glover, Monica Potter, Michael Emerson, Ken Leung, and Tobin Bell.The film tells a nonlinear narrative, revolving around the mystery of the Jigsaw Killer, who tests his victims' will to live by putting them through deadly "games" where they must inflict great physical pain upon themselves to survive. The frame story follows Jigsaw's latest victims (Whannell and Elwes), who awaken in a large, dilapidated bathroom, with one being ordered to kill the other to save his own family.
 The screenplay was written by Whannell, who co-created the story with Wan in their respective screenwriting debuts. The film was originally written in 2001, but after failed attempts to get the script produced in Wan and Whannell's home country of Australia, they were urged to travel to Los Angeles. In order to help attract producers they shot a low-budget short film of the same name from a scene out of the script. This proved successful in 2003 as producers from Evolution Entertainment were immediately attached and also formed a horror genre production label, Twisted Pictures. The film was given a small production budget and was shot in 18 days.
 Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, before being released in North America on October 29, 2004, by Lionsgate. The film received generally mixed reviews from critics but grossed more than $100 million worldwide to become one of the most profitable horror films since Scream (1996). It was theatrically re-released, to select theaters, on October 31, 2014, to celebrate its tenth anniversary. The first sequel, titled Saw II, was released in 2005.</desc-sub-title>
-<category lang="en" id="4">anime</category>
+<category lang="en" id="4">category3</category>
 <genre lang="en" id="527">genre1</genre><credits>
 <person type="director" id-type="010" id="81488" id-kinopoisk="1669556" id-imdb="">
 <name lang="en">Robb Pratt</name>
