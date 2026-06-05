@@ -3,7 +3,7 @@
 <display-name lang="ru">TV test</display-name>
 <icon src="http://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/3ece3c81-e875-4057-ab9d-0a6ca5ae6dd/logo/000002882.png"/>
 </channel>
-<programme start="20260604080000 +0300" stop="20260604090000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee30">
+<programme start="20260605080000 +0300" stop="20260605090000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee30">
 <title lang="en" id="2521306">BigNews5 0</title>
 <sub-title lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title>
 <sub-title-original lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title-original>
@@ -39,7 +39,7 @@
 <name lang="en">Frederik Wiedmann</name>
 </person>
 </credits>
-<date>2026-06-04</date>
+<date>2026-06-05</date>
 <country lang="en" id="840">USA</country>
 <production lang="en">CON Creative Studio</production>
 <production lang="en">Disney Television Animation</production>
@@ -63,7 +63,7 @@
 <icon type="frame" position="gorizontal" aspect-ratio="4:3" w="1440" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/devushka_volny_more_1220714_1920x1080.jpg"/>
 <icon type="frame" position="gorizontal" aspect-ratio="16:9" w="1920" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/devushka_volny_more_1220714_1920x1080.jpg"/>
 </programme>
-<programme start="20260604090000 +0300" stop="20260604100000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee31">
+<programme start="20260605090000 +0300" stop="20260605100000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee31">
 <title lang="en" id="2521306">BigNews6 1</title>
 <sub-title lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title>
 <sub-title-original lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title-original>
@@ -103,7 +103,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <name lang="en">Frederik Wiedmann</name>
 </person>
 </credits>
-<date>2026-06-04</date>
+<date>2026-06-05</date>
 <country lang="en" id="840">USA</country>
 <production lang="en">CON Creative Studio</production>
 <production lang="en">Disney Television Animation</production>
@@ -127,7 +127,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <icon type="frame" position="gorizontal" aspect-ratio="4:3" w="1440" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/devushka_siluet_plate_1182318_1920x1080.jpg"/>
 <icon type="frame" position="gorizontal" aspect-ratio="16:9" w="1920" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/devushka_siluet_plate_1182318_1920x1080.jpg"/>
 </programme>
-<programme start="20260604100000 +0300" stop="20260604110000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee32">
+<programme start="20260605100000 +0300" stop="20260605110000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee32">
 <title lang="en" id="2521306">BigNews5 2</title>
 <sub-title lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title>
 <sub-title-original lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title-original>
@@ -163,7 +163,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <name lang="en">Frederik Wiedmann</name>
 </person>
 </credits>
-<date>2026-06-04</date>
+<date>2026-06-05</date>
 <country lang="en" id="840">USA</country>
 <production lang="en">CON Creative Studio</production>
 <production lang="en">Disney Television Animation</production>
@@ -187,7 +187,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <icon type="frame" position="gorizontal" aspect-ratio="4:3" w="1440" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/gorod_zdaniia_noch_989931_1920x1080.jpg"/>
 <icon type="frame" position="gorizontal" aspect-ratio="16:9" w="1920" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/gorod_zdaniia_noch_989931_1920x1080.jpg"/>
 </programme>
-<programme start="20260604110000 +0300" stop="20260604120000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee33">
+<programme start="20260605110000 +0300" stop="20260605120000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee33">
 <title lang="en" id="2521306">BigNews6 3</title>
 <sub-title lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title>
 <sub-title-original lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title-original>
@@ -223,7 +223,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <name lang="en">Frederik Wiedmann</name>
 </person>
 </credits>
-<date>2026-06-04</date>
+<date>2026-06-05</date>
 <country lang="en" id="840">USA</country>
 <production lang="en">CON Creative Studio</production>
 <production lang="en">Disney Television Animation</production>
@@ -247,7 +247,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <icon type="frame" position="gorizontal" aspect-ratio="4:3" w="1440" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/zamok_arhitektura_gory_252072_1920x1080.jpg"/>
 <icon type="frame" position="gorizontal" aspect-ratio="16:9" w="1920" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/zamok_arhitektura_gory_252072_1920x1080.jpg"/>
 </programme>
-<programme start="20260604120000 +0300" stop="20260604130000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee34">
+<programme start="20260605120000 +0300" stop="20260605130000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee34">
 <title lang="en" id="2521306">BigNews5 4</title>
 <sub-title lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title>
 <sub-title-original lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title-original>
@@ -283,7 +283,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <name lang="en">Frederik Wiedmann</name>
 </person>
 </credits>
-<date>2026-06-04</date>
+<date>2026-06-05</date>
 <country lang="en" id="840">USA</country>
 <production lang="en">CON Creative Studio</production>
 <production lang="en">Disney Television Animation</production>
@@ -307,7 +307,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <icon type="frame" position="gorizontal" aspect-ratio="4:3" w="1440" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/olen_les_noch_130294_1920x1080.jpg"/>
 <icon type="frame" position="gorizontal" aspect-ratio="16:9" w="1920" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/olen_les_noch_130294_1920x1080.jpg"/>
 </programme>
-<programme start="20260604130000 +0300" stop="20260604140000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee35">
+<programme start="20260605130000 +0300" stop="20260605140000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee35">
 <title lang="en" id="2521306">BigNews6 5</title>
 <sub-title lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title>
 <sub-title-original lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title-original>
@@ -343,7 +343,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <name lang="en">Frederik Wiedmann</name>
 </person>
 </credits>
-<date>2026-06-04</date>
+<date>2026-06-05</date>
 <country lang="en" id="840">USA</country>
 <production lang="en">CON Creative Studio</production>
 <production lang="en">Disney Television Animation</production>
@@ -367,7 +367,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <icon type="frame" position="gorizontal" aspect-ratio="4:3" w="1440" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/devushka_volny_more_1220714_1920x1080.jpg"/>
 <icon type="frame" position="gorizontal" aspect-ratio="16:9" w="1920" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/devushka_volny_more_1220714_1920x1080.jpg"/>
 </programme>
-<programme start="20260604140000 +0300" stop="20260604150000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee36">
+<programme start="20260605140000 +0300" stop="20260605150000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee36">
 <title lang="en" id="2521306">BigNews5 6</title>
 <sub-title lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title>
 <sub-title-original lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title-original>
@@ -407,7 +407,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <name lang="en">Frederik Wiedmann</name>
 </person>
 </credits>
-<date>2026-06-04</date>
+<date>2026-06-05</date>
 <country lang="en" id="840">USA</country>
 <production lang="en">CON Creative Studio</production>
 <production lang="en">Disney Television Animation</production>
@@ -431,7 +431,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <icon type="frame" position="gorizontal" aspect-ratio="4:3" w="1440" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/devushka_siluet_plate_1182318_1920x1080.jpg"/>
 <icon type="frame" position="gorizontal" aspect-ratio="16:9" w="1920" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/devushka_siluet_plate_1182318_1920x1080.jpg"/>
 </programme>
-<programme start="20260604150000 +0300" stop="20260604160000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee37">
+<programme start="20260605150000 +0300" stop="20260605160000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee37">
 <title lang="en" id="2521306">BigNews6 7</title>
 <sub-title lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title>
 <sub-title-original lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title-original>
@@ -467,7 +467,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <name lang="en">Frederik Wiedmann</name>
 </person>
 </credits>
-<date>2026-06-04</date>
+<date>2026-06-05</date>
 <country lang="en" id="840">USA</country>
 <production lang="en">CON Creative Studio</production>
 <production lang="en">Disney Television Animation</production>
@@ -491,7 +491,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <icon type="frame" position="gorizontal" aspect-ratio="4:3" w="1440" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/gorod_zdaniia_noch_989931_1920x1080.jpg"/>
 <icon type="frame" position="gorizontal" aspect-ratio="16:9" w="1920" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/gorod_zdaniia_noch_989931_1920x1080.jpg"/>
 </programme>
-<programme start="20260604160000 +0300" stop="20260604170000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee38">
+<programme start="20260605160000 +0300" stop="20260605170000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee38">
 <title lang="en" id="2521306">BigNews5 8</title>
 <sub-title lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title>
 <sub-title-original lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title-original>
@@ -527,7 +527,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <name lang="en">Frederik Wiedmann</name>
 </person>
 </credits>
-<date>2026-06-04</date>
+<date>2026-06-05</date>
 <country lang="en" id="840">USA</country>
 <production lang="en">CON Creative Studio</production>
 <production lang="en">Disney Television Animation</production>
@@ -551,7 +551,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <icon type="frame" position="gorizontal" aspect-ratio="4:3" w="1440" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/zamok_arhitektura_gory_252072_1920x1080.jpg"/>
 <icon type="frame" position="gorizontal" aspect-ratio="16:9" w="1920" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/zamok_arhitektura_gory_252072_1920x1080.jpg"/>
 </programme>
-<programme start="20260604170000 +0300" stop="20260604180000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee39">
+<programme start="20260605170000 +0300" stop="20260605180000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee39">
 <title lang="en" id="2521306">BigNews6 9</title>
 <sub-title lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title>
 <sub-title-original lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title-original>
@@ -587,7 +587,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <name lang="en">Frederik Wiedmann</name>
 </person>
 </credits>
-<date>2026-06-04</date>
+<date>2026-06-05</date>
 <country lang="en" id="840">USA</country>
 <production lang="en">CON Creative Studio</production>
 <production lang="en">Disney Television Animation</production>
@@ -611,7 +611,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <icon type="frame" position="gorizontal" aspect-ratio="4:3" w="1440" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/olen_les_noch_130294_1920x1080.jpg"/>
 <icon type="frame" position="gorizontal" aspect-ratio="16:9" w="1920" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/olen_les_noch_130294_1920x1080.jpg"/>
 </programme>
-<programme start="20260604180000 +0300" stop="20260604190000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee310">
+<programme start="20260605180000 +0300" stop="20260605190000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee310">
 <title lang="en" id="2521306">BigNews5 10</title>
 <sub-title lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title>
 <sub-title-original lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title-original>
@@ -647,7 +647,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <name lang="en">Frederik Wiedmann</name>
 </person>
 </credits>
-<date>2026-06-04</date>
+<date>2026-06-05</date>
 <country lang="en" id="840">USA</country>
 <production lang="en">CON Creative Studio</production>
 <production lang="en">Disney Television Animation</production>
@@ -671,7 +671,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <icon type="frame" position="gorizontal" aspect-ratio="4:3" w="1440" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/devushka_volny_more_1220714_1920x1080.jpg"/>
 <icon type="frame" position="gorizontal" aspect-ratio="16:9" w="1920" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/devushka_volny_more_1220714_1920x1080.jpg"/>
 </programme>
-<programme start="20260604190000 +0300" stop="20260604200000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee311">
+<programme start="20260605190000 +0300" stop="20260605200000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee311">
 <title lang="en" id="2521306">BigNews6 11</title>
 <sub-title lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title>
 <sub-title-original lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title-original>
@@ -711,7 +711,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <name lang="en">Frederik Wiedmann</name>
 </person>
 </credits>
-<date>2026-06-04</date>
+<date>2026-06-05</date>
 <country lang="en" id="840">USA</country>
 <production lang="en">CON Creative Studio</production>
 <production lang="en">Disney Television Animation</production>
@@ -735,7 +735,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <icon type="frame" position="gorizontal" aspect-ratio="4:3" w="1440" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/devushka_siluet_plate_1182318_1920x1080.jpg"/>
 <icon type="frame" position="gorizontal" aspect-ratio="16:9" w="1920" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/devushka_siluet_plate_1182318_1920x1080.jpg"/>
 </programme>
-<programme start="20260604200000 +0300" stop="20260604210000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee312">
+<programme start="20260605200000 +0300" stop="20260605210000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee312">
 <title lang="en" id="2521306">BigNews5 12</title>
 <sub-title lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title>
 <sub-title-original lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title-original>
@@ -771,7 +771,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <name lang="en">Frederik Wiedmann</name>
 </person>
 </credits>
-<date>2026-06-04</date>
+<date>2026-06-05</date>
 <country lang="en" id="840">USA</country>
 <production lang="en">CON Creative Studio</production>
 <production lang="en">Disney Television Animation</production>
@@ -795,7 +795,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <icon type="frame" position="gorizontal" aspect-ratio="4:3" w="1440" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/gorod_zdaniia_noch_989931_1920x1080.jpg"/>
 <icon type="frame" position="gorizontal" aspect-ratio="16:9" w="1920" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/gorod_zdaniia_noch_989931_1920x1080.jpg"/>
 </programme>
-<programme start="20260604210000 +0300" stop="20260604220000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee313">
+<programme start="20260605210000 +0300" stop="20260605220000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee313">
 <title lang="en" id="2521306">BigNews6 13</title>
 <sub-title lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title>
 <sub-title-original lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title-original>
@@ -831,7 +831,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <name lang="en">Frederik Wiedmann</name>
 </person>
 </credits>
-<date>2026-06-04</date>
+<date>2026-06-05</date>
 <country lang="en" id="840">USA</country>
 <production lang="en">CON Creative Studio</production>
 <production lang="en">Disney Television Animation</production>
@@ -855,7 +855,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <icon type="frame" position="gorizontal" aspect-ratio="4:3" w="1440" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/zamok_arhitektura_gory_252072_1920x1080.jpg"/>
 <icon type="frame" position="gorizontal" aspect-ratio="16:9" w="1920" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/zamok_arhitektura_gory_252072_1920x1080.jpg"/>
 </programme>
-<programme start="20260604220000 +0300" stop="20260604230000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee314">
+<programme start="20260605220000 +0300" stop="20260605230000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee314">
 <title lang="en" id="2521306">BigNews5 14</title>
 <sub-title lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title>
 <sub-title-original lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title-original>
@@ -891,7 +891,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <name lang="en">Frederik Wiedmann</name>
 </person>
 </credits>
-<date>2026-06-04</date>
+<date>2026-06-05</date>
 <country lang="en" id="840">USA</country>
 <production lang="en">CON Creative Studio</production>
 <production lang="en">Disney Television Animation</production>
@@ -915,7 +915,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <icon type="frame" position="gorizontal" aspect-ratio="4:3" w="1440" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/olen_les_noch_130294_1920x1080.jpg"/>
 <icon type="frame" position="gorizontal" aspect-ratio="16:9" w="1920" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/olen_les_noch_130294_1920x1080.jpg"/>
 </programme>
-<programme start="20260604230000 +0300" stop="20260605000000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee315">
+<programme start="20260605230000 +0300" stop="20260606000000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee315">
 <title lang="en" id="2521306">BigNews6 15</title>
 <sub-title lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title>
 <sub-title-original lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title-original>
@@ -951,7 +951,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <name lang="en">Frederik Wiedmann</name>
 </person>
 </credits>
-<date>2026-06-04</date>
+<date>2026-06-05</date>
 <country lang="en" id="840">USA</country>
 <production lang="en">CON Creative Studio</production>
 <production lang="en">Disney Television Animation</production>
@@ -975,7 +975,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <icon type="frame" position="gorizontal" aspect-ratio="4:3" w="1440" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/devushka_volny_more_1220714_1920x1080.jpg"/>
 <icon type="frame" position="gorizontal" aspect-ratio="16:9" w="1920" h="1080" official="false" src="https://images.wallpaperscraft.ru/image/single/devushka_volny_more_1220714_1920x1080.jpg"/>
 </programme>
-<programme start="20260605000000 +0300" stop="20260605010000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee316">
+<programme start="20260606000000 +0300" stop="20260606010000 +0300" channel="62" id="e73ee64d-80e9-417f-8e93-2d20db21ee316">
 <title lang="en" id="2521306">BigNews5 16</title>
 <sub-title lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title>
 <sub-title-original lang="en" id="3852834">Care-A-Van Club / Mud About You</sub-title-original>
@@ -1015,7 +1015,7 @@ Saw was first screened on January 19, 2004, at the 2004 Sundance Film Festival, 
 <name lang="en">Frederik Wiedmann</name>
 </person>
 </credits>
-<date>2026-06-04</date>
+<date>2026-06-05</date>
 <country lang="en" id="840">USA</country>
 <production lang="en">CON Creative Studio</production>
 <production lang="en">Disney Television Animation</production>
